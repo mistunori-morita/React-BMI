@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import './App.css';
 
 class Range extends Component {
   render() {
     return (
       <div className="range">
-
+       <input type="range" />
       </div>
     );
   }
