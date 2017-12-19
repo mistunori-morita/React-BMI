@@ -124,3 +124,7 @@ return (
 );
 
 ```
+
+## cssでスタイリング
+- `http://www.cssportal.com/`インプットタグをスタイリング
+-　今回は`http://www.cssportal.com/style-input-range/`を使って簡単にスタイリング

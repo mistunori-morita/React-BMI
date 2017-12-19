@@ -28,7 +28,7 @@ class App extends Component {
       bmi: bmi,
       bmiClass: this.getBmiclass(bmi)
     }, function(){
-      console.log(this.state);
+      // console.log(this.state);
     });
   }
 

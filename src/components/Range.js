@@ -15,7 +15,7 @@ static defaultProps = {
 }
 
 onChange(e){
-  console.log(e.target.value);
+  // console.log(e.target.value);
   this.props.onChange(this.state.value);
   this.setState({value: e.target.value})
 }
@@ -35,5 +35,6 @@ onChange(e){
     );
   }
 }
+
 
 export default Range;
